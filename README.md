@@ -12,7 +12,7 @@ One of the errors we are investigating is
 Xcode 14.2 (14C18) \
 macOS Ventura 13.2.1 (22D68) \
 iPhone SE 1st Gen, iOS 14.8.1 \
-iPhone 12 mini, iOS 16.4.1
+iPhone 12 mini, iOS 16.3.1
 
 ### Steps to reproduce:
 1. Download [dji_example_video.mov](https://github.com/opfeffer/photo-picker-sandbox/releases/download/v0.1/dji_example_video.mov) from Releases page.
